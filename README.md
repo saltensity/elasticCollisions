@@ -11,4 +11,4 @@ How to play with this simulation:
 - Reset the simulation with "Reset"
 - "Kick" the balls with 'Kick' (this just induces a force vector on all balls)
 
-Change the number of balls with the slider. Have fun!! :)
+Change the number of balls with the slider. Oh, and the balls do not like moving mouses. Have fun!! :)
